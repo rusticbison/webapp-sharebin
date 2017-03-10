@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to shareb.in
 
-You can use the [editor on GitHub](https://github.com/rusticbison/website-sharebin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Companies all over the world have their share registration data stored in centralized, inaccessible databases. Until now, these expensive data registration schemes were accessible only to those lucky enough to have been born in a wealthy country that provides such infrastructure. Approximately 80% of the people on this planet cannot access these basic data registration schemes, which means that the playing field today is very unequal. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+shareb.in helps level the playing field. With shareb.in, you can issue your company's common stock on the Bitcoin blockchain. The Bitcoin blockchain is the only computer in the world that has perfect availability, is completely open and accessible to everyone, and is completely tamperproof. 
 
-### Markdown
+shareb.in is an open service that lets any company, from an entrepreneur in Côte d’Ivoire to a Swiss multinational, use common infrastructure to prove to the world that their shares were registered properly. Using shareb.in, investors can refer to the company's original registration artifact in the even of a dispute over number of shares issued, or the date of issue.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### This service is coming soon
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rusticbison/website-sharebin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This service will be available April 1, 2017. 
