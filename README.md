@@ -1,9 +1,8 @@
 ## Welcome to shareb.in 
 
-List your company's common stock on the blockchain today. 
-100% availability and open access for investors and regulators anywhere in the world.
+shareb.in helps you list your company's common stock on the blockchain, a global database with 100% availability and open access for investors and regulators anywhere in the world.
 
-### What's the problem?
+### What's the problem we're trying to solve?
 
 When a company creates shares, where is the record of that event stored? Can investors prove that the original records have never been tampered with? In most cases, the answer is unfortunately "no". 
 
