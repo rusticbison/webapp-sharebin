@@ -17,4 +17,4 @@ With shareb.in you register your company’s common stock using the Bitcoin bloc
 
 ### This service is coming soon
 
-This service will be available April 1, 2017. 
+This service will be available Q2 2017. 
